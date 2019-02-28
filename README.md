@@ -8,5 +8,11 @@
 #### VidCNN - Learning Blind Video Denoising [[github]](https://github.com/clausmichele/VidCNN---Learning-Blind-Video-Denoising)
 - MICHELE_CLAUS *Arxiv 2019*
 
+#### Noise2Noise: Learning Image Restoration without Clean Data [[paper]](https://arxiv.org/abs/1803.04189) [[github]](https://github.com/NVlabs/noise2noise)
+- Jaakko Lehtinen, Jacob Munkberg, Jon Hasselgren, Samuli Laine, Tero Karras, Miika Aittala, Timo Aila
+
+
+
+
 
 
